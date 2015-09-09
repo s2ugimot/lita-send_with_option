@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["Shu Sugimoto"]
   spec.email         = ["shu@su.gimo.to"]
-  spec.description   = %q{TODO: Add a description}
-  spec.summary       = %q{TODO: Add a summary}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = %q{Lita extension to add send_with_option capability}
+  spec.summary       = %q{This extension will modify core classes and adds send_with_option capability can be used with adapters.}
+  spec.homepage      = "https://github.com/s2ugimot/lita-send_with_option"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "extension" }
 
